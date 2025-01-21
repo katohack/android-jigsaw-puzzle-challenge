@@ -44,5 +44,6 @@
     <string name="title_jigsaw_detail">Jigsaw Detail</string>
     <string name="title_jigsaw_history">History</string>
     <string name="title_activity_jigsaw">Draw</string>
+    <string name="scan_the_QR_code">"application"</string>
 
 </resources>
